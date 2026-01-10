@@ -7,16 +7,16 @@ Manual installation
    (marked as "Y") work correctly.
 
 3. Service installation instructions:
-- Copy the service file goodbyedpi.service to /etc/systemd/system/ or any other
+- Copy the service file byedpi.service to /etc/systemd/system/ or any other
   systemd services directory.
 
 - Run the following commands:
 sudo systemctl daemon-reload
-sudo systemctl enable goodbyedpi.service
-sudo systemctl start goodbyedpi.service
+sudo systemctl enable byedpi.service
+sudo systemctl start byedpi.service
 
 - Check the service status:
-sudo systemctl status goodbyedpi.service
+sudo systemctl status byedpi.service
 
 Enjoy!
 
