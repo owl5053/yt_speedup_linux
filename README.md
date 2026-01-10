@@ -27,20 +27,20 @@ and apply the following configuration:
 "Proxy" -> 127.0.0.1:1080 type: SOCKS5
 "Smart proxy" -> "Add hard rule(s)" , list:
 
-yt3.ggpht.com
-yt4.ggpht.com
-yt3.googleusercontent.com
-googlevideo.com
-jnn-pa.googleapis.com
-stable.dl2.discordapp.net
-wide-youtube.l.google.com
-youtube-nocookie.com
-youtube-ui.l.google.com
-youtube.com
-youtubeembeddedplayer.googleapis.com
-youtubekids.com
-youtubei.googleapis.com
-youtu.be
-yt-video-upload.l.google.com
+yt3.ggpht.com  
+yt4.ggpht.com  
+yt3.googleusercontent.com  
+googlevideo.com  
+jnn-pa.googleapis.com  
+stable.dl2.discordapp.net  
+wide-youtube.l.google.com  
+youtube-nocookie.com  
+youtube-ui.l.google.com  
+youtube.com  
+youtubeembeddedplayer.googleapis.com  
+youtubekids.com  
+youtubei.googleapis.com  
+youtu.be  
+yt-video-upload.l.google.com  
 ytimg.com
 ytimg.l.google.com
