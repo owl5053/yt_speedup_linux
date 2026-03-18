@@ -1,22 +1,28 @@
-Manual installation
+## Manual Installation
 
-1. Run prepare.sh to clone "ciadpi-i686" from the Git repository and
+1. **Prepare the environment**  
+   Run prepare.sh to clone "ciadpi-i686" from the Git repository and
    prepare the service configuration file.
 
-2. Before testing, please run test.sh and verify that video hosting websites
+2. **Test before installation**  
+   Before testing, please run test.sh and verify that video hosting websites
    (marked as "Y") work correctly.
 
-3. Service installation instructions:
+3. **Service installation**
 - Copy the service file byedpi.service to /etc/systemd/system/ or any other
   systemd services directory.
 
 - Run the following commands:
+```bash
 sudo systemctl daemon-reload
 sudo systemctl enable byedpi.service
 sudo systemctl start byedpi.service
+```
 
 - Check the service status:
+```bash
 sudo systemctl status byedpi.service
+```
 
 Enjoy!
 
