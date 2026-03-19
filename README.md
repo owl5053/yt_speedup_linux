@@ -1,5 +1,3 @@
-# ByeDPI Service Setup
-
 ## 📦 Manual Installation
 
 ### 1. **Prepare the environment**  
